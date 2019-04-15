@@ -1,6 +1,16 @@
 # VueDemo
 
 > A Vue.js project
+## install modules
+```
+npm install swiper --save-dev
+```
+```
+npm i element-ui -S
+```
+```
+npm install axios
+```
 
 ## Build Setup
 
@@ -20,14 +30,6 @@ npm run build --report
 ## Test
 open http://127.0.0.1:8090/#/login
 
-# 需要安装的包
-```
-npm install swiper --save-dev
-```
-```
-npm i element-ui -S
-```
-```
-npm install axios
-```
+# 拓展阅读
+[ssm+vue前后端分离框架整合（附源码）](https://blog.csdn.net/lsy1072/article/details/89304362)
 
